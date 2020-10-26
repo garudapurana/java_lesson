@@ -1,2 +1,2 @@
-aaa.java
- aaa
+ua/gg/lol/aaa.java
+ ua.gg.lol.aaa
