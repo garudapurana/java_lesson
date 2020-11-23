@@ -1,0 +1,2 @@
+garuda/dndz/ua/BookTest.java
+ garuda.dndz.ua.BookTest
