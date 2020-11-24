@@ -1,4 +1,10 @@
-garuda/dndz/ua/GroupData.java
- garuda.dndz.ua.GroupData
-garuda/dndz/ua/BookTest.java
- garuda.dndz.ua.BookTest
+garuda/dndz/ua/tests/DeleteGroupTest.java
+ garuda.dndz.ua.tests.DeleteGroupTest
+garuda/dndz/ua/tests/BookTest.java
+ garuda.dndz.ua.tests.BookTest
+garuda/dndz/ua/appmanager/AplicationManager.java
+ garuda.dndz.ua.appmanager.AplicationManager
+garuda/dndz/ua/model/GroupData.java
+ garuda.dndz.ua.model.GroupData
+garuda/dndz/ua/tests/TestBase.java
+ garuda.dndz.ua.tests.TestBase

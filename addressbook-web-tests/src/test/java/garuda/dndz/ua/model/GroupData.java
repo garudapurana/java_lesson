@@ -1,4 +1,4 @@
-package garuda.dndz.ua;
+package garuda.dndz.ua.model;
 
 public class GroupData {
   private final String name;
