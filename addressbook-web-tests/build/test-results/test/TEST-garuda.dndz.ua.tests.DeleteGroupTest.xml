@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.DeleteGroupTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-24T14:56:34" hostname="GARUDA-PC" time="13.178">
+<testsuite name="garuda.dndz.ua.tests.DeleteGroupTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-24T17:23:13" hostname="GARUDA-PC" time="8.622">
   <properties/>
-  <testcase name="deleteGroup" classname="garuda.dndz.ua.tests.DeleteGroupTest" time="13.178"/>
+  <testcase name="deleteGroup" classname="garuda.dndz.ua.tests.DeleteGroupTest" time="8.622"/>
   <system-out><![CDATA[WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
 ]]></system-out>
   <system-err><![CDATA[ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 23880
+Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 22426
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-нояб. 24, 2020 4:56:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+нояб. 24, 2020 7:23:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-нояб. 24, 2020 4:56:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+нояб. 24, 2020 7:23:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 87, so returning the closest version found: 86
-нояб. 24, 2020 4:56:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+нояб. 24, 2020 7:23:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found CDP implementation for version 87 of 86
 ]]></system-err>
 </testsuite>
