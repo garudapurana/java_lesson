@@ -4,7 +4,7 @@ package garuda.dndz.ua.tests;
 import garuda.dndz.ua.model.GroupData;
 import org.junit.Test;
 
-public class BookTest extends TestBase {
+public class CreateGroupTest extends TestBase {
 
   @Test
   public void addgroupTest() {
