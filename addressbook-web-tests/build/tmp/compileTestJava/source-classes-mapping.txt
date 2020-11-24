@@ -1,2 +1,4 @@
+garuda/dndz/ua/GroupData.java
+ garuda.dndz.ua.GroupData
 garuda/dndz/ua/BookTest.java
  garuda.dndz.ua.BookTest
