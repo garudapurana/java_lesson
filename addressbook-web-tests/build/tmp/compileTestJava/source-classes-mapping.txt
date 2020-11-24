@@ -1,10 +1,16 @@
+garuda/dndz/ua/model/GroupData.java
+ garuda.dndz.ua.model.GroupData
 garuda/dndz/ua/tests/DeleteGroupTest.java
  garuda.dndz.ua.tests.DeleteGroupTest
+garuda/dndz/ua/appmanager/SessionManager.java
+ garuda.dndz.ua.appmanager.SessionManager
 garuda/dndz/ua/tests/BookTest.java
  garuda.dndz.ua.tests.BookTest
 garuda/dndz/ua/appmanager/AplicationManager.java
  garuda.dndz.ua.appmanager.AplicationManager
-garuda/dndz/ua/model/GroupData.java
- garuda.dndz.ua.model.GroupData
+garuda/dndz/ua/appmanager/GroupHelper.java
+ garuda.dndz.ua.appmanager.GroupHelper
 garuda/dndz/ua/tests/TestBase.java
  garuda.dndz.ua.tests.TestBase
+garuda/dndz/ua/appmanager/NavigationHelper.java
+ garuda.dndz.ua.appmanager.NavigationHelper
