@@ -1,6 +1,5 @@
 package garuda.dndz.ua.appmanager;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -24,14 +23,11 @@ public class AplicationManager {
   }
 
 
-
-  public void logout() {
-    wd.findElement(By.linkText("Logout")).click();
-  }
-
   public void stop() {
     wd.quit();
   }
+
+
 
   public GroupHelper getGroupHelper() {
     return groupHelper;
@@ -39,5 +35,9 @@ public class AplicationManager {
 
   public NavigationHelper getNavigationHelper() {
     return navigationHelper;
+  }
+
+  public SessionManager getSessionManager() {
+    return sessionManager;
   }
 }

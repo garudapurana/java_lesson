@@ -13,7 +13,7 @@ public class BookTest extends TestBase {
     app.getGroupHelper().fillGroupForm(new GroupData("asdasdasdasdasd", "123asd", "asd123"));
     app.getGroupHelper().submitGroupCreation();
     app.getNavigationHelper().gotoGroupPage();
-    app.logout();
+    app.getSessionManager().logout();
   }
 
 }

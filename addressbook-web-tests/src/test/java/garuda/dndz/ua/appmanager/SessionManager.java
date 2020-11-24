@@ -13,4 +13,7 @@ public class SessionManager {
     wd.findElement(By.name("pass")).sendKeys(password);
     wd.findElement(By.cssSelector("input:nth-child(7)")).click();
   }
+  public void logout() {
+    wd.findElement(By.linkText("Logout")).click();
+  }
 }
