@@ -1,0 +1,4 @@
+ua/gg/lol/SquareTest.java
+ ua.gg.lol.SquareTest
+ua/gg/lol/EquationTest.java
+ ua.gg.lol.EquationTest

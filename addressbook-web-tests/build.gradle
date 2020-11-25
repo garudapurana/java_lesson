@@ -7,9 +7,5 @@ repositories {
 dependencies {
     implementation 'org.touchbit.shields4j:testng:1.0.1'
     implementation 'org.seleniumhq.selenium:selenium-java:4.0.0-alpha-7'
-    implementation 'org.slf4j:slf4j-parent:2.0.0-alpha1'
-    implementation 'com.guicedee.services:slf4j:1.1.0.5-jre15'
-    implementation 'org.robolectric:junit:4.5-alpha-3'
     implementation 'junit:junit:4.12'
-    implementation 'org.apache.logging.log4j:log4j:2.14.0'
 }

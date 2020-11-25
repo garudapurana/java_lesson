@@ -1,2 +1,8 @@
-ua/gg/lol/aaa.java
- ua.gg.lol.aaa
+ua/gg/lol/MyProgram.java
+ ua.gg.lol.MyProgram
+ua/gg/lol/Square.java
+ ua.gg.lol.Square
+ua/gg/lol/Rectangle.java
+ ua.gg.lol.Rectangle
+ua/gg/lol/Equation.java
+ ua.gg.lol.Equation
