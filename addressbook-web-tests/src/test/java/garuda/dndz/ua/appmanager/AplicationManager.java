@@ -33,7 +33,8 @@ public class AplicationManager {
     }else if(browser.equals(BrowserType.IE)){
       wd = new InternetExplorerDriver();
     }
-    wd.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
+    wd.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
+
     wd.manage().window().setSize(new Dimension(1060, 1030));
 
     wd.get("http://localhost/");

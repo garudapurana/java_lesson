@@ -8,9 +8,11 @@ import org.openqa.selenium.support.ui.Select;
 
 public class ContactHelper extends HelperBase {
   public ContactHelper(WebDriver wd){super(wd);}
+
   public void initContactCreation(){
     click(By.linkText("add new"));
   }
+
   public void fillContactForm(ContactData contactData,boolean creation){
     type(By.name("firstname"),contactData.getFirstname());
     type(By.name("lastname"),contactData.getLastname());
