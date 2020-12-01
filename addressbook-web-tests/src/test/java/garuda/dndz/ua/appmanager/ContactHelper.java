@@ -26,7 +26,7 @@ public class ContactHelper extends HelperBase {
     click(By.name("submit"));
   }
   public void returnToHomePage(){
-    click(By.name("home page"));
+    click(By.linkText("home page"));
   }
   public void initContactModification(){
     click(By.cssSelector("img[alt='Edit']"));
