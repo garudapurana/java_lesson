@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.gg.lol.PrimeTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-02T14:33:30" hostname="GARUDA-PC" time="0.011">
+  <properties/>
+  <testcase name="testNonPrime" classname="ua.gg.lol.PrimeTests" time="0.011"/>
+  <testcase name="testPrime" classname="ua.gg.lol.PrimeTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

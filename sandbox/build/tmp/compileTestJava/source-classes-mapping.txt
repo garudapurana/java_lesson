@@ -2,3 +2,5 @@ ua/gg/lol/SquareTest.java
  ua.gg.lol.SquareTest
 ua/gg/lol/EquationTest.java
  ua.gg.lol.EquationTest
+ua/gg/lol/PrimeTests.java
+ ua.gg.lol.PrimeTests

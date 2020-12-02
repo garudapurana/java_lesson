@@ -6,3 +6,5 @@ ua/gg/lol/Rectangle.java
  ua.gg.lol.Rectangle
 ua/gg/lol/Equation.java
  ua.gg.lol.Equation
+ua/gg/lol/Primes.java
+ ua.gg.lol.Primes
