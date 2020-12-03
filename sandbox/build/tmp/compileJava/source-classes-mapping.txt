@@ -8,3 +8,5 @@ ua/gg/lol/Equation.java
  ua.gg.lol.Equation
 ua/gg/lol/Primes.java
  ua.gg.lol.Primes
+ua/gg/lol/Collection.java
+ ua.gg.lol.Collection
