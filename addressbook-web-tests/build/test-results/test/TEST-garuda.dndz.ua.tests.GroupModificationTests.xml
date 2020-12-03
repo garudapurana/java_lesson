@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.GroupModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-03T17:44:54" hostname="GARUDA-PC" time="7.2">
+<testsuite name="garuda.dndz.ua.tests.GroupModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-03T18:31:57" hostname="GARUDA-PC" time="6.577">
   <properties/>
-  <testcase name="modificationTest" classname="garuda.dndz.ua.tests.GroupModificationTests" time="7.2"/>
+  <testcase name="modificationTest" classname="garuda.dndz.ua.tests.GroupModificationTests" time="6.577"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 36354
+Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 24172
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-дек. 03, 2020 7:44:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+дек. 03, 2020 8:32:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-дек. 03, 2020 7:44:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+дек. 03, 2020 8:32:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 87, so returning the closest version found: 86
-дек. 03, 2020 7:44:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+дек. 03, 2020 8:32:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found CDP implementation for version 87 of 86
 ]]></system-err>
 </testsuite>
