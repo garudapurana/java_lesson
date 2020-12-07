@@ -1,20 +1,20 @@
 package garuda.dndz.ua.tests;
 
 import garuda.dndz.ua.appmanager.AplicationManager;
-import org.junit.After;
-import org.junit.Before;
 import org.openqa.selenium.remote.BrowserType;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
 
 public class TestBase {
 
-  protected final AplicationManager app = new AplicationManager(BrowserType.CHROME);
+  protected static final AplicationManager app = new AplicationManager(BrowserType.CHROME);
 
-  @Before
+  @BeforeSuite
   public void setUp() {
     app.init();
   }
 
-  @After
+  @AfterSuite
   public void tearDown() {
     app.stop();
   }

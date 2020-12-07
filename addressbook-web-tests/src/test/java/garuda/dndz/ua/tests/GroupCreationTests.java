@@ -2,7 +2,7 @@ package garuda.dndz.ua.tests;
 
 import garuda.dndz.ua.model.GroupData;
 import org.junit.Assert;
-import org.junit.Test;
+import org.testng.annotations.Test;
 import java.util.Comparator;
 import java.util.List;
 
@@ -23,7 +23,7 @@ public class GroupCreationTests extends TestBase {
     after.sort(byId);
     Assert.assertEquals(before,after);
 
-    app.getSessionManager().logout();
+    //app.getSessionManager().logout();
   }
 
 }

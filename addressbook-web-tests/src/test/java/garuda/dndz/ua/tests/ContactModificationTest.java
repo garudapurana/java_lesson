@@ -1,7 +1,7 @@
 package garuda.dndz.ua.tests;
 
 import garuda.dndz.ua.model.ContactData;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class ContactModificationTest extends TestBase {
   @Test

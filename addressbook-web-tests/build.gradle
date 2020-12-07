@@ -5,8 +5,9 @@ repositories {
     mavenCentral()
 }
 dependencies {
-    implementation 'org.touchbit.shields4j:testng:1.0.1'
+    implementation 'org.testng:testng:7.3.0'
     implementation 'org.seleniumhq.selenium:selenium-java:4.0.0-alpha-7'
-    implementation 'junit:junit:4.12'
-    implementation 'org.jetbrains:annotations:19.0.0'
+}
+test {
+    useTestNG()
 }
