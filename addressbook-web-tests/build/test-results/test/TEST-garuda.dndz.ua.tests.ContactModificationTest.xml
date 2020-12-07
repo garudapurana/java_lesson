@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.ContactModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-07T13:08:20" hostname="GARUDA-PC" time="0.684">
+<testsuite name="garuda.dndz.ua.tests.ContactModificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-07T13:41:24" hostname="GARUDA-PC" time="0.504">
   <properties/>
-  <testcase name="testContactModification" classname="garuda.dndz.ua.tests.ContactModificationTest" time="0.684"/>
+  <testcase name="testContactModification" classname="garuda.dndz.ua.tests.ContactModificationTest" time="0.504"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
