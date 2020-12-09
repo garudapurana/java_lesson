@@ -2,12 +2,14 @@ garuda/dndz/ua/appmanager/SessionManager.java
  garuda.dndz.ua.appmanager.SessionManager
 garuda/dndz/ua/model/GroupData.java
  garuda.dndz.ua.model.GroupData
-garuda/dndz/ua/tests/GroupDeletionTests.java
- garuda.dndz.ua.tests.GroupDeletionTests
+garuda/dndz/ua/tests/ContactModificationTest.java
+ garuda.dndz.ua.tests.ContactModificationTest
+garuda/dndz/ua/model/Groups.java
+ garuda.dndz.ua.model.Groups
 garuda/dndz/ua/appmanager/HelperBase.java
  garuda.dndz.ua.appmanager.HelperBase
-garuda/dndz/ua/tests/GroupModificationTests.java
- garuda.dndz.ua.tests.GroupModificationTests
+garuda/dndz/ua/tests/GroupDeletionTests.java
+ garuda.dndz.ua.tests.GroupDeletionTests
 garuda/dndz/ua/tests/GroupCreationTests.java
  garuda.dndz.ua.tests.GroupCreationTests
 garuda/dndz/ua/appmanager/AplicationManager.java
@@ -24,5 +26,5 @@ garuda/dndz/ua/tests/TestBase.java
  garuda.dndz.ua.tests.TestBase
 garuda/dndz/ua/appmanager/NavigationHelper.java
  garuda.dndz.ua.appmanager.NavigationHelper
-garuda/dndz/ua/tests/ContactModificationTest.java
- garuda.dndz.ua.tests.ContactModificationTest
+garuda/dndz/ua/tests/GroupModificationTests.java
+ garuda.dndz.ua.tests.GroupModificationTests
