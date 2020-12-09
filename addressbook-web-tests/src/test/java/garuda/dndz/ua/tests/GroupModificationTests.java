@@ -17,7 +17,6 @@ public class GroupModificationTests extends TestBase{
       app.group().create(new GroupData().withName("test1"));
     }
   }
-
   @Test
   public void modificationTest(){
     Groups before = app.group().all();
@@ -28,6 +27,4 @@ public class GroupModificationTests extends TestBase{
     assertEquals(before.size(),after.size());
     assertThat(after, equalTo(before.without(modifiedGroup).withAdded(group)));
   }
-
-
 }
