@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.GroupDeletionTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T13:57:02" hostname="GARUDA-PC" time="0.496">
+<testsuite name="garuda.dndz.ua.tests.GroupDeletionTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T14:17:41" hostname="GARUDA-PC" time="0.739">
   <properties/>
-  <testcase name="deleteGroup" classname="garuda.dndz.ua.tests.GroupDeletionTests" time="0.496"/>
+  <testcase name="deleteGroup" classname="garuda.dndz.ua.tests.GroupDeletionTests" time="0.739"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
