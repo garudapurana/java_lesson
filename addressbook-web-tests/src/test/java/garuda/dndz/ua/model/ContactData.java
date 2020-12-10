@@ -1,13 +1,14 @@
 package garuda.dndz.ua.model;
 
 public class ContactData {
-  private int id = Integer.MAX_VALUE;
+  private int id;
   private String firstname;
   private String lastname;
   private String group;
   private String homePhone;
   private String mobilePhone;
   private String workPhone;
+  private String allPhone;
 
   public ContactData() {
 
@@ -56,6 +57,15 @@ public class ContactData {
 
   public ContactData withLastname(String lastname) {
     this.lastname = lastname;
+    return this;
+  }
+
+  public String getAllPhone() {
+    return allPhone;
+  }
+
+  public ContactData withAllPhone(String allPhone) {
+    this.allPhone = allPhone;
     return this;
   }
 }
