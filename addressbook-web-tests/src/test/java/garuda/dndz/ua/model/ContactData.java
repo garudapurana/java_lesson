@@ -1,5 +1,7 @@
 package garuda.dndz.ua.model;
 
+import java.io.File;
+
 public class ContactData {
   private int id;
   private String firstname;
@@ -9,6 +11,7 @@ public class ContactData {
   private String mobilePhone;
   private String workPhone;
   private String allPhone;
+  private File photo;
 
   public ContactData() {
 
@@ -66,6 +69,15 @@ public class ContactData {
 
   public ContactData withAllPhone(String allPhone) {
     this.allPhone = allPhone;
+    return this;
+  }
+
+  public File getPhoto() {
+    return photo;
+  }
+
+  public ContactData withPhoto(File photo) {
+    this.photo = photo;
     return this;
   }
 }
