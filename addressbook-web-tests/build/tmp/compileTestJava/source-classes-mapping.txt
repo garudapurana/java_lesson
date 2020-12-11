@@ -30,3 +30,5 @@ garuda/dndz/ua/tests/ContactModificationTest.java
  garuda.dndz.ua.tests.ContactModificationTest
 garuda/dndz/ua/tests/ContactPhoneTest.java
  garuda.dndz.ua.tests.ContactPhoneTest
+garuda/dndz/ua/generators/GroupDataGenerator.java
+ garuda.dndz.ua.generators.GroupDataGenerator
