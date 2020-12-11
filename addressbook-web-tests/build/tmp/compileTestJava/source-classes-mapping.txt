@@ -14,8 +14,8 @@ garuda/dndz/ua/appmanager/GroupHelper.java
  garuda.dndz.ua.appmanager.GroupHelper
 garuda/dndz/ua/tests/GroupModificationTests.java
  garuda.dndz.ua.tests.GroupModificationTests
-garuda/dndz/ua/tests/GroupCreationTests.java
- garuda.dndz.ua.tests.GroupCreationTests
+garuda/dndz/ua/generators/GroupDataGenerator.java
+ garuda.dndz.ua.generators.GroupDataGenerator
 garuda/dndz/ua/appmanager/AplicationManager.java
  garuda.dndz.ua.appmanager.AplicationManager
 garuda/dndz/ua/tests/GroupDeletionTests.java
@@ -30,5 +30,5 @@ garuda/dndz/ua/tests/ContactModificationTest.java
  garuda.dndz.ua.tests.ContactModificationTest
 garuda/dndz/ua/tests/ContactPhoneTest.java
  garuda.dndz.ua.tests.ContactPhoneTest
-garuda/dndz/ua/generators/GroupDataGenerator.java
- garuda.dndz.ua.generators.GroupDataGenerator
+garuda/dndz/ua/tests/GroupCreationTests.java
+ garuda.dndz.ua.tests.GroupCreationTests
