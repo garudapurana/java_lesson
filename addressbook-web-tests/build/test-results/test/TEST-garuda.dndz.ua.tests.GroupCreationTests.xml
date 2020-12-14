@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.GroupCreationTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-14T11:40:23" hostname="GARUDA-PC" time="18.287">
+<testsuite name="garuda.dndz.ua.tests.GroupCreationTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-14T12:05:06" hostname="GARUDA-PC" time="20.208">
   <properties/>
-  <testcase name="addGroupBadTest" classname="garuda.dndz.ua.tests.GroupCreationTests" time="4.618"/>
-  <testcase name="addGroupTest[0](GroupData{id='2147483647', name='test 0'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.905"/>
-  <testcase name="addGroupTest[1](GroupData{id='2147483647', name='test 1'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.65"/>
-  <testcase name="addGroupTest[2](GroupData{id='2147483647', name='test 2'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.702"/>
-  <testcase name="addGroupTest[3](GroupData{id='2147483647', name='test 3'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.667"/>
-  <testcase name="addGroupTest[4](GroupData{id='2147483647', name='test 4'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.702"/>
+  <testcase name="addGroupBadTest" classname="garuda.dndz.ua.tests.GroupCreationTests" time="5.156"/>
+  <testcase name="addGroupTest[0](GroupData{id='2147483647', name='test 0'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="3.145"/>
+  <testcase name="addGroupTest[1](GroupData{id='2147483647', name='test 1'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="3.038"/>
+  <testcase name="addGroupTest[2](GroupData{id='2147483647', name='test 2'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.893"/>
+  <testcase name="addGroupTest[3](GroupData{id='2147483647', name='test 3'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="3.017"/>
+  <testcase name="addGroupTest[4](GroupData{id='2147483647', name='test 4'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="2.919"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
