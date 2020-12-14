@@ -10,13 +10,12 @@ garuda/dndz/ua/appmanager/HelperBase.java
  garuda.dndz.ua.appmanager.HelperBase
 garuda/dndz/ua/tests/GroupModificationTests.java
  garuda.dndz.ua.tests.GroupModificationTests
-garuda/dndz/ua/tests/GroupCreationTests.java
- garuda.dndz.ua.tests.GroupCreationTests
- garuda.dndz.ua.tests.GroupCreationTests$1
+garuda/dndz/ua/tests/ContactPhoneTest.java
+ garuda.dndz.ua.tests.ContactPhoneTest
 garuda/dndz/ua/appmanager/AplicationManager.java
  garuda.dndz.ua.appmanager.AplicationManager
-garuda/dndz/ua/generators/GroupDataGenerator.java
- garuda.dndz.ua.generators.GroupDataGenerator
+garuda/dndz/ua/tests/ContactModificationTest.java
+ garuda.dndz.ua.tests.ContactModificationTest
 garuda/dndz/ua/tests/ContactCreationTest.java
  garuda.dndz.ua.tests.ContactCreationTest
 garuda/dndz/ua/appmanager/ContactHelper.java
@@ -29,7 +28,8 @@ garuda/dndz/ua/tests/TestBase.java
  garuda.dndz.ua.tests.TestBase
 garuda/dndz/ua/appmanager/NavigationHelper.java
  garuda.dndz.ua.appmanager.NavigationHelper
-garuda/dndz/ua/tests/ContactModificationTest.java
- garuda.dndz.ua.tests.ContactModificationTest
-garuda/dndz/ua/tests/ContactPhoneTest.java
- garuda.dndz.ua.tests.ContactPhoneTest
+garuda/dndz/ua/tests/GroupCreationTests.java
+ garuda.dndz.ua.tests.GroupCreationTests
+ garuda.dndz.ua.tests.GroupCreationTests$1
+garuda/dndz/ua/generators/GroupDataGenerator.java
+ garuda.dndz.ua.generators.GroupDataGenerator
