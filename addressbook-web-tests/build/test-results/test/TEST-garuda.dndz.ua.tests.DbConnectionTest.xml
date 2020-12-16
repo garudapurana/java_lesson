@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="garuda.dndz.ua.tests.DbConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-16T13:03:21" hostname="GARUDA-PC" time="0.228">
+  <properties/>
+  <testcase name="testDbConnection" classname="garuda.dndz.ua.tests.DbConnectionTest" time="0.228"/>
+  <system-out><![CDATA[[GroupData{id='13', name='test 2'}, GroupData{id='15', name='test 4'}, GroupData{id='31', name='test 0'}, GroupData{id='33', name='test 2'}, GroupData{id='35', name='test 4'}, GroupData{id='21', name='test 0'}, GroupData{id='23', name='test 2'}, GroupData{id='25', name='test 4'}, GroupData{id='27', name='test 1'}, GroupData{id='29', name='test 3'}, GroupData{id='20', name='test 4'}, GroupData{id='44', name='test1'}, GroupData{id='11', name='test1'}, GroupData{id='37', name='test 1'}, GroupData{id='39', name='test 3'}, GroupData{id='8', name='test 2'}, GroupData{id='10', name='test 4'}, GroupData{id='1', name='test1'}, GroupData{id='41', name='test 0'}, GroupData{id='43', name='test 2'}, GroupData{id='45', name='test 4'}, GroupData{id='36', name='test1'}, GroupData{id='3', name='test1'}, GroupData{id='12', name='test 1'}, GroupData{id='14', name='test 3'}, GroupData{id='32', name='test 1'}, GroupData{id='34', name='test 3'}, GroupData{id='5', name='test 4'}, GroupData{id='22', name='test 1'}, GroupData{id='24', name='test 3'}, GroupData{id='17', name='test1'}, GroupData{id='26', name='test 0'}, GroupData{id='28', name='test 2'}, GroupData{id='30', name='test 4'}, GroupData{id='19', name='test1'}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
