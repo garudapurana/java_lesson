@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="garuda.dndz.ua.tests.HbConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-17T13:41:28" hostname="GARUDA-PC" time="0.457">
+  <properties/>
+  <testcase name="testHbConnection" classname="garuda.dndz.ua.tests.HbConnectionTest" time="0.457"/>
+  <system-out><![CDATA[233  [Test worker] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final} 
+238  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found 
+239  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist 
+557  [Test worker] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final} 
+643  [Test worker] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+649  [Test worker] INFO  org.hibernate.orm.connections - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/addressbook?useUnicode=true&serverTimezone=UTC&useSSL=false] 
+650  [Test worker] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {password=, user=root} 
+650  [Test worker] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false 
+656  [Test worker] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1) 
+941  [Test worker] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2492 [Test worker] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory 
+Hibernate: select groupdata0_.group_id as group_id1_0_, groupdata0_.group_footer as group_fo2_0_, groupdata0_.group_header as group_he3_0_, groupdata0_.group_name as group_na4_0_ from group_list groupdata0_
+GroupData{id='1', name='test1'}
+GroupData{id='3', name='test1'}
+GroupData{id='5', name='test 4'}
+GroupData{id='8', name='test 2'}
+GroupData{id='10', name='test 4'}
+GroupData{id='11', name='test1'}
+GroupData{id='12', name='test 1'}
+GroupData{id='13', name='test 2'}
+GroupData{id='14', name='test 3'}
+GroupData{id='15', name='test 4'}
+GroupData{id='17', name='test1'}
+GroupData{id='19', name='test1'}
+GroupData{id='20', name='test 4'}
+GroupData{id='21', name='test 0'}
+GroupData{id='22', name='test 1'}
+GroupData{id='23', name='test 2'}
+GroupData{id='24', name='test 3'}
+GroupData{id='25', name='test 4'}
+GroupData{id='26', name='test 0'}
+GroupData{id='27', name='test 1'}
+GroupData{id='28', name='test 2'}
+GroupData{id='29', name='test 3'}
+GroupData{id='30', name='test 4'}
+GroupData{id='31', name='test 0'}
+GroupData{id='32', name='test 1'}
+GroupData{id='33', name='test 2'}
+GroupData{id='34', name='test 3'}
+GroupData{id='35', name='test 4'}
+GroupData{id='36', name='test1'}
+GroupData{id='37', name='test 1'}
+GroupData{id='39', name='test 3'}
+GroupData{id='41', name='test 0'}
+GroupData{id='43', name='test 2'}
+GroupData{id='44', name='test1'}
+GroupData{id='45', name='test 4'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

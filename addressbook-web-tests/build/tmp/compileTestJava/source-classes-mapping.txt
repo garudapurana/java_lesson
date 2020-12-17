@@ -4,10 +4,14 @@ garuda/dndz/ua/model/GroupData.java
  garuda.dndz.ua.model.GroupData
 garuda/dndz/ua/tests/GroupDeletionTests.java
  garuda.dndz.ua.tests.GroupDeletionTests
+garuda/dndz/ua/tests/HbConnectionTest.java
+ garuda.dndz.ua.tests.HbConnectionTest
 garuda/dndz/ua/model/Groups.java
  garuda.dndz.ua.model.Groups
 garuda/dndz/ua/appmanager/HelperBase.java
  garuda.dndz.ua.appmanager.HelperBase
+garuda/dndz/ua/tests/DbConnectionTest.java
+ garuda.dndz.ua.tests.DbConnectionTest
 garuda/dndz/ua/tests/GroupModificationTests.java
  garuda.dndz.ua.tests.GroupModificationTests
 garuda/dndz/ua/tests/GroupCreationTests.java
@@ -33,5 +37,3 @@ garuda/dndz/ua/tests/ContactModificationTest.java
  garuda.dndz.ua.tests.ContactModificationTest
 garuda/dndz/ua/tests/ContactPhoneTest.java
  garuda.dndz.ua.tests.ContactPhoneTest
-garuda/dndz/ua/tests/DbConnectionTest.java
- garuda.dndz.ua.tests.DbConnectionTest
