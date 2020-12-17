@@ -1,6 +1,6 @@
 package garuda.dndz.ua.tests;
 
-import garuda.dndz.ua.model.GroupData;
+import garuda.dndz.ua.model.ContactData;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class HbConnectionTest {
-
   private SessionFactory sessionFactory;
 
   @BeforeClass
@@ -36,9 +35,9 @@ public class HbConnectionTest {
   public void testHbConnection(){
     Session session = sessionFactory.openSession();
     session.beginTransaction();
-    List<GroupData> result = session.createQuery( "from GroupData" ).list();
-    for (GroupData group : result) {
-      System.out.println(group);
+    List<ContactData> result = session.createQuery( "from ContactData where deprecated = '0000-00-00'" ).list();
+    for (ContactData contact : result) {
+      System.out.println(contact);
     }
     session.getTransaction().commit();
     session.close();

@@ -23,30 +23,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20c69edb-0461-497d-8160-b590657f96bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/HbConnectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/model/GroupData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/model/GroupData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/garuda.dndz.ua.tests.DbConnectionTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/tests/HbConnectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/tests/HbConnectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/garuda.dndz.ua.tests.HbConnectionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/garuda.dndz.ua.tests.HbConnectionTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/garuda.dndz.ua.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/garuda.dndz.ua.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/classes/garuda.dndz.ua.tests.ContactPhoneTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/packages/garuda.dndz.ua.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/packages/garuda.dndz.ua.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/resources/test/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/resources/test/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-garuda.dndz.ua.tests.DbConnectionTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/resources/test/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/resources/test/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-garuda.dndz.ua.tests.HbConnectionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-garuda.dndz.ua.tests.HbConnectionTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/TEST-garuda.dndz.ua.tests.ContactPhoneTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/GroupData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/ContactData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/ContactData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/HbConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/HbConnectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -332,9 +326,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.HbConnectionTest" />
+        <item itemvalue="Gradle.ContactCreationTest" />
         <item itemvalue="Gradle.DbConnectionTest" />
         <item itemvalue="Gradle.ContactModificationTest" />
-        <item itemvalue="Gradle.ContactCreationTest" />
         <item itemvalue="Gradle.EquationTest" />
       </list>
     </recent_temporary>

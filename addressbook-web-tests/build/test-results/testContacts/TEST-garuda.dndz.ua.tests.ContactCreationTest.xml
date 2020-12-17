@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="garuda.dndz.ua.tests.ContactCreationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-17T13:58:08" hostname="GARUDA-PC" time="0.736">
+  <properties/>
+  <testcase name="testContactCreation" classname="garuda.dndz.ua.tests.ContactCreationTest" time="0.736"/>
+  <system-out><![CDATA[5500 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test testContactCreationwith parameters[] 
+6240 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test testContactCreation 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

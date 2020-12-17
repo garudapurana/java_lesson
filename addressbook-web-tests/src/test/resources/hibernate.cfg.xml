@@ -29,5 +29,7 @@
     <property name="hbm2ddl.auto">validate</property>
     <!-- Names the annotated entity class -->
     <mapping class="garuda.dndz.ua.model.GroupData"/>
+        <mapping class="garuda.dndz.ua.model.ContactData"/>
+
 </session-factory>
 </hibernate-configuration>
