@@ -23,36 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20c69edb-0461-497d-8160-b590657f96bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/appmanager/DbHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/appmanager/AplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/model/Groups.class" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/classes/java/test/garuda/dndz/ua/model/Groups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/garuda.dndz.ua.tests.HbConnectionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/classes/garuda.dndz.ua.tests.HbConnectionTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/garuda.dndz.ua.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/test/packages/garuda.dndz.ua.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/classes/garuda.dndz.ua.tests.ContactCreationTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/packages/garuda.dndz.ua.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testContacts/packages/garuda.dndz.ua.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/classes/garuda.dndz.ua.tests.GroupModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/classes/garuda.dndz.ua.tests.GroupModificationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/packages/garuda.dndz.ua.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/reports/tests/testGroups/packages/garuda.dndz.ua.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-garuda.dndz.ua.tests.HbConnectionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/TEST-garuda.dndz.ua.tests.HbConnectionTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/TEST-garuda.dndz.ua.tests.ContactCreationTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testContacts/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/TEST-garuda.dndz.ua.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/TEST-garuda.dndz.ua.tests.GroupModificationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/build/test-results/testGroups/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/appmanager/AplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/appmanager/AplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/GroupData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/model/Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/GroupModificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/GroupModificationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/GroupCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/garuda/dndz/ua/tests/GroupCreationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +128,7 @@
       <recent name="ua.gg.lol" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.GroupModificationTests">
+  <component name="RunManager" selected="Gradle.GroupCreationTests">
     <configuration name="Addressbook" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Addressbook" />
       <module name="addressbook-web-tests.test" />
@@ -336,10 +307,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.GroupModificationTests" />
         <item itemvalue="Gradle.HbConnectionTest" />
         <item itemvalue="Gradle.GroupDeletionTests" />
-        <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.DbConnectionTest" />
       </list>
     </recent_temporary>

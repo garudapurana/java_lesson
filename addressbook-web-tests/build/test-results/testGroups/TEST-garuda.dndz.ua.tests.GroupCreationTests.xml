@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="garuda.dndz.ua.tests.GroupCreationTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-18T13:25:57" hostname="GARUDA-PC" time="8.25">
+  <properties/>
+  <testcase name="addGroupBadTest" classname="garuda.dndz.ua.tests.GroupCreationTests" time="3.568"/>
+  <testcase name="addGroupTest[0](GroupData{id='2147483647', name='test 0'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="1.336"/>
+  <testcase name="addGroupTest[1](GroupData{id='2147483647', name='test 1'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="0.812"/>
+  <testcase name="addGroupTest[2](GroupData{id='2147483647', name='test 2'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="0.897"/>
+  <testcase name="addGroupTest[3](GroupData{id='2147483647', name='test 3'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="0.846"/>
+  <testcase name="addGroupTest[4](GroupData{id='2147483647', name='test 4'})" classname="garuda.dndz.ua.tests.GroupCreationTests" time="0.755"/>
+  <system-out><![CDATA[7063 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupBadTestwith parameters[] 
+10631 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupBadTest 
+10661 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupTestwith parameters[GroupData{id='2147483647', name='test 0'}] 
+10821 [Test worker] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory 
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+11998 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupTest 
+11999 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupTestwith parameters[GroupData{id='2147483647', name='test 1'}] 
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+12812 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupTest 
+12812 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupTestwith parameters[GroupData{id='2147483647', name='test 2'}] 
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+13710 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupTest 
+13711 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupTestwith parameters[GroupData{id='2147483647', name='test 3'}] 
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+14558 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupTest 
+14558 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test addGroupTestwith parameters[GroupData{id='2147483647', name='test 4'}] 
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+Hibernate: select groupdata0_.group_id as group_id1_1_, groupdata0_.group_footer as group_fo2_1_, groupdata0_.group_header as group_he3_1_, groupdata0_.group_name as group_na4_1_ from group_list groupdata0_
+15313 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test addGroupTest 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
