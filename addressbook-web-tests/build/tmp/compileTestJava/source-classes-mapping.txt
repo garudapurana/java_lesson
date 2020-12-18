@@ -2,18 +2,18 @@ garuda/dndz/ua/appmanager/SessionManager.java
  garuda.dndz.ua.appmanager.SessionManager
 garuda/dndz/ua/model/GroupData.java
  garuda.dndz.ua.model.GroupData
-garuda/dndz/ua/generators/GroupDataGenerator.java
- garuda.dndz.ua.generators.GroupDataGenerator
-garuda/dndz/ua/appmanager/GroupHelper.java
- garuda.dndz.ua.appmanager.GroupHelper
+garuda/dndz/ua/tests/GroupDeletionTests.java
+ garuda.dndz.ua.tests.GroupDeletionTests
+garuda/dndz/ua/appmanager/DbHelper.java
+ garuda.dndz.ua.appmanager.DbHelper
+garuda/dndz/ua/tests/HbConnectionTest.java
+ garuda.dndz.ua.tests.HbConnectionTest
 garuda/dndz/ua/model/Groups.java
  garuda.dndz.ua.model.Groups
 garuda/dndz/ua/appmanager/HelperBase.java
  garuda.dndz.ua.appmanager.HelperBase
 garuda/dndz/ua/tests/DbConnectionTest.java
  garuda.dndz.ua.tests.DbConnectionTest
-garuda/dndz/ua/appmanager/NavigationHelper.java
- garuda.dndz.ua.appmanager.NavigationHelper
 garuda/dndz/ua/tests/GroupModificationTests.java
  garuda.dndz.ua.tests.GroupModificationTests
 garuda/dndz/ua/tests/GroupCreationTests.java
@@ -21,18 +21,20 @@ garuda/dndz/ua/tests/GroupCreationTests.java
  garuda.dndz.ua.tests.GroupCreationTests$1
 garuda/dndz/ua/appmanager/AplicationManager.java
  garuda.dndz.ua.appmanager.AplicationManager
-garuda/dndz/ua/tests/GroupDeletionTests.java
- garuda.dndz.ua.tests.GroupDeletionTests
-garuda/dndz/ua/tests/HbConnectionTest.java
- garuda.dndz.ua.tests.HbConnectionTest
+garuda/dndz/ua/generators/GroupDataGenerator.java
+ garuda.dndz.ua.generators.GroupDataGenerator
 garuda/dndz/ua/tests/ContactCreationTest.java
  garuda.dndz.ua.tests.ContactCreationTest
 garuda/dndz/ua/appmanager/ContactHelper.java
  garuda.dndz.ua.appmanager.ContactHelper
+garuda/dndz/ua/appmanager/GroupHelper.java
+ garuda.dndz.ua.appmanager.GroupHelper
 garuda/dndz/ua/model/ContactData.java
  garuda.dndz.ua.model.ContactData
 garuda/dndz/ua/tests/TestBase.java
  garuda.dndz.ua.tests.TestBase
+garuda/dndz/ua/appmanager/NavigationHelper.java
+ garuda.dndz.ua.appmanager.NavigationHelper
 garuda/dndz/ua/tests/ContactModificationTest.java
  garuda.dndz.ua.tests.ContactModificationTest
 garuda/dndz/ua/tests/ContactPhoneTest.java

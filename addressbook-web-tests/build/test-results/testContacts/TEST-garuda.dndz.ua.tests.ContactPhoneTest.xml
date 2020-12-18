@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="garuda.dndz.ua.tests.ContactPhoneTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:59:55" hostname="GARUDA-PC" time="1.549">
+  <properties/>
+  <testcase name="testContactPhone" classname="garuda.dndz.ua.tests.ContactPhoneTest" time="1.549"/>
+  <system-out><![CDATA[5267 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Start test testContactPhonewith parameters[] 
+6819 [Test worker] INFO  garuda.dndz.ua.tests.TestBase - Stop test testContactPhone 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

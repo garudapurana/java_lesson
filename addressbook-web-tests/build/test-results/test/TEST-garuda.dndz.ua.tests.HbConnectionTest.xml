@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="garuda.dndz.ua.tests.HbConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-17T14:02:00" hostname="GARUDA-PC" time="0.171">
+<testsuite name="garuda.dndz.ua.tests.HbConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T13:01:37" hostname="GARUDA-PC" time="0.608">
   <properties/>
-  <testcase name="testHbConnection" classname="garuda.dndz.ua.tests.HbConnectionTest" time="0.171"/>
-  <system-out><![CDATA[231  [Test worker] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final} 
-241  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found 
-241  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist 
-540  [Test worker] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final} 
-615  [Test worker] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
-625  [Test worker] INFO  org.hibernate.orm.connections - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/addressbook?useUnicode=true&serverTimezone=UTC&useSSL=false] 
-625  [Test worker] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {password=, user=root} 
-625  [Test worker] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false 
-625  [Test worker] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1) 
-808  [Test worker] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
-1446 [Test worker] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory 
+  <testcase name="testHbConnection" classname="garuda.dndz.ua.tests.HbConnectionTest" time="0.608"/>
+  <system-out><![CDATA[814  [Test worker] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.1.0.Final} 
+824  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found 
+834  [Test worker] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist 
+1673 [Test worker] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final} 
+1997 [Test worker] WARN  org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+1997 [Test worker] INFO  org.hibernate.orm.connections - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/addressbook?useUnicode=true&serverTimezone=UTC&useSSL=false] 
+1997 [Test worker] INFO  org.hibernate.orm.connections - HHH10001001: Connection properties: {password=, user=root} 
+1997 [Test worker] INFO  org.hibernate.orm.connections - HHH10001003: Autocommit mode: false 
+2008 [Test worker] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1) 
+2281 [Test worker] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+4532 [Test worker] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory 
 Hibernate: select contactdat0_.id as id1_0_, contactdat0_.firstname as firstnam2_0_, contactdat0_.home as home3_0_, contactdat0_.lastname as lastname4_0_, contactdat0_.mobile as mobile5_0_, contactdat0_.photo as photo6_0_, contactdat0_.work as work7_0_ from addressbook contactdat0_ where deprecated='0000-00-00'
 ContactData{id=25, firstname='Наталья', lastname='Никитина'}
 ContactData{id=35, firstname='test_name', lastname='test_surname'}
@@ -28,6 +28,7 @@ ContactData{id=44, firstname='test_name', lastname='test_surname'}
 ContactData{id=45, firstname='test_name', lastname='test_surname'}
 ContactData{id=46, firstname='test_name', lastname='test_surname'}
 ContactData{id=47, firstname='test_name', lastname='test_surname'}
+ContactData{id=48, firstname='test_name', lastname='test_surname'}
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
