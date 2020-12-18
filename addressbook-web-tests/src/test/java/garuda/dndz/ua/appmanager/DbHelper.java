@@ -1,5 +1,7 @@
 package garuda.dndz.ua.appmanager;
 
+import garuda.dndz.ua.model.ContactData;
+import garuda.dndz.ua.model.Contacts;
 import garuda.dndz.ua.model.GroupData;
 import garuda.dndz.ua.model.Groups;
 import org.hibernate.Session;
@@ -28,5 +30,13 @@ public class DbHelper {
     session.getTransaction().commit();
     session.close();
     return new Groups(result);
+  }
+  public Contacts contacts(){
+    Session session = sessionFactory.openSession();
+    session.beginTransaction();
+    List<ContactData> result = session.createQuery("from ContactData where deprecated = '0000-00-00'").list();
+    session.getTransaction().commit();
+    session.close();
+    return new Contacts(result);
   }
 }
