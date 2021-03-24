@@ -10,3 +10,5 @@ ua/gg/lol/Primes.java
  ua.gg.lol.Primes
 ua/gg/lol/Collection.java
  ua.gg.lol.Collection
+ua/gg/lol/For.java
+ ua.gg.lol.For
